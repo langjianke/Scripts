@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python ~/Library/MyScript/scriptlogin.py kindle $1 $2

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# switch below path to yours or add colormetrics.py to your bash profile
+
+python ~/Library/MyScript/colormetrics.py

@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python ~/Library/MyScript/scriptlogin.py firetv $1 $2

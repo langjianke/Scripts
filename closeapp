@@ -1,0 +1,4 @@
+#!/bin/bash
+
+ARG1=${1:-com.amazon.mp3}
+adb shell am force-stop $ARG1
